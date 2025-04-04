@@ -8,7 +8,7 @@ html{
     scroll-behavior: smooth;
 }
 body{
-    background: #080808;
+    background: #001c05;
     color: #fff;
 }
 
@@ -16,8 +16,8 @@ body{
     padding: 10px 10%;
 }
 #profile-picture {
-        width: 200px; /* Increase the size */
-        height: 200px; /* Match increased size */
+        width:348 px; /* Increase the size */
+        height: 350px; /* Match increased size */
         border-radius: 50%; /* Circle shape */
         border: 5px solid #6f0ae2; 
         overflow: hidden;
