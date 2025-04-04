@@ -1,2 +1,1 @@
-# plp_portfolio
-sample portfolio for plp
+You can view my website here: https://logannkirote.github.io/My-portfolio/
